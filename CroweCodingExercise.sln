@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26127.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweCodingExercise", "CroweCodingExercise\CroweCodingExercise.csproj", "{43E29A3A-5DAC-4CF7-999C-098B402B3DF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweCodingExercise.API", "API\CroweCodingExercise.API.csproj", "{04F5C11D-89B8-4366-B374-DF0D5E5F73EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweCodingExercise.UnitTests", "CroweCodingExercise.UnitTests\CroweCodingExercise.UnitTests.csproj", "{FA6549E7-2881-4667-BFA4-64364FAE32D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{43E29A3A-5DAC-4CF7-999C-098B402B3DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43E29A3A-5DAC-4CF7-999C-098B402B3DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43E29A3A-5DAC-4CF7-999C-098B402B3DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F5C11D-89B8-4366-B374-DF0D5E5F73EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F5C11D-89B8-4366-B374-DF0D5E5F73EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F5C11D-89B8-4366-B374-DF0D5E5F73EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F5C11D-89B8-4366-B374-DF0D5E5F73EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6549E7-2881-4667-BFA4-64364FAE32D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6549E7-2881-4667-BFA4-64364FAE32D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6549E7-2881-4667-BFA4-64364FAE32D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6549E7-2881-4667-BFA4-64364FAE32D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
